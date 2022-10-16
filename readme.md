@@ -1,0 +1,3 @@
+The main motivation behind the project is to reduce road accidents due to drowsiness and errors in detecting the road signs.
+Advancement in Technology: In the recent years, use of intelligent algorithms in cars has developed considerably. These systems use WSNs to monitor and transmit the condition of the car and the driver. Smart cars that use software techniques to control engine speed, steering, transmission, brake etc. has improved the quality of driving significantly.
+Improvement in Safety:So, in order to solve this problem, an idea came up to create a software product which will raise a alarm when the driver is feeling drowsy using machine learning and artificial intelligence.
